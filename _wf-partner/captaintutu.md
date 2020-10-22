@@ -5,7 +5,7 @@ glyphname: CAPTAINTUTU
 glyphurl: ExportManifest/Lotus/Interface/Icons/Player/ContentCreators/CaptainTutu.png
 glyphwave: 7
 youtube: https://www.youtube.com/channel/UC-7CTcR-IXmjUUl-RLTX9oQ
-twitch: https://twitch.tv/kidtutu
+twitch: https://www.twitch.tv/captaintutu
 twitter: https://twitter.com/TheCaptainTutu
 discord: https://discord.gg/k8DT82z
 other-site:
