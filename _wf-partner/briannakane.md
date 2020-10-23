@@ -20,4 +20,4 @@ alt-names:
 ---
 * Sub on twitch
 * Giveaways
-* 24h watchtime (!watchtime)
+* 72h watchtime (!watchtime)
