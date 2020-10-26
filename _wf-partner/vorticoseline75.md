@@ -20,7 +20,7 @@ alt-names:
 ---
 * Sub to channel (!sub) - must whisper Vort, Twila, or active mods with a channel emote
 * 2 week of watch time (!watchtime)
-* 100,000 snacks (!points/!snacks)
+* 25,000 snacks (!points/!snacks)
 * Random Giveaway (every 5 gifted subs in channel)
 * Challenge (random challenge posted in discord)
 * Code drop on social media at random
