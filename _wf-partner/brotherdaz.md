@@ -18,7 +18,7 @@ mixer:
 ccid: 141
 alt-names: OldDirtyDaz
 ---
-* Watch stream for 48 hours and ask for a glyph.
+* Watch stream for 20 hours and ask for a glyph.
 * Posts codes randomly on Twitter.
 * Twitch subscription.
 * Twitch raffles.
